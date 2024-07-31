@@ -1,0 +1,30 @@
+.sidebar {
+    width: 200px;
+    padding: 20px;
+    color: black;
+    border-left: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  
+  .sidebar h2 {
+    margin: 10px 0;
+  }
+  
+  .draggable-item-table {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+    cursor: pointer;
+  }
+
+  .draggable-item-client {
+    padding: 2px 5px;
+    margin: 9px 5px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    background-color: olivedrab;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+  
